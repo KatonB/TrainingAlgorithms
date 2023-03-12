@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1979d24-0daa-4e1c-af77-4b7c6d2c0342" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LddsdPCNxFCvgwGNK6kT9tKblN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/3.0/Nails" />
+      <recent name="$PROJECT_DIR$/3.0/Histogramm" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv/1.0/1.1" />
+      <recent name="$PROJECT_DIR$/venv/1.0" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="TrainingAlgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1979d24-0daa-4e1c-af77-4b7c6d2c0342" name="Changes" comment="" />
+      <created>1676205103635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676205103635</updated>
+      <workItem from="1676205109251" duration="23000" />
+      <workItem from="1676205173607" duration="37305000" />
+      <workItem from="1676636506432" duration="29879000" />
+      <workItem from="1676825154938" duration="3159000" />
+      <workItem from="1678192672956" duration="22495000" />
+      <workItem from="1678457142253" duration="31012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1678457313156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Deque.coverage" NAME="Deque Coverage Results" MODIFIED="1676691482614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Deque" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Histogramm.coverage" NAME="Histogramm Coverage Results" MODIFIED="1676537310426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Histogramm" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$The_cheapest_way.coverage" NAME="The cheapest way Coverage Results" MODIFIED="1678530848022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/The cheapest way" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$AirConditioners.coverage" NAME="AirConditioners Coverage Results" MODIFIED="1676214553883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.0/1.1" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$GSC.coverage" NAME="GSC Coverage Results" MODIFIED="1678548678165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/GSC" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Collector.coverage" NAME="Collector Coverage Results" MODIFIED="1676567786502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Collector" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$eqwroot.coverage" NAME="eqwroot Coverage Results" MODIFIED="1676268888717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.0/1.1" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Tickets.coverage" NAME="Tickets Coverage Results" MODIFIED="1678453199091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Tickets" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$LineLand.coverage" NAME="LineLand Coverage Results" MODIFIED="1676660853774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/LineLand" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$queue.coverage" NAME="queue Coverage Results" MODIFIED="1676661371500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/queue" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Nails.coverage" NAME="Nails Coverage Results" MODIFIED="1678459984226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Nails" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$DrinkMans.coverage" NAME="DrinkMans Coverage Results" MODIFIED="1676664701376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/DrinkMans" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$WagSort.coverage" NAME="WagSort Coverage Results" MODIFIED="1676657890419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/WagSort" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$TraingleExist.coverage" NAME="TraingleExist Coverage Results" MODIFIED="1676215121805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.0/1.1" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$RightBrackets.coverage" NAME="RightBrackets Coverage Results" MODIFIED="1676643723768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/RightBrackets" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$PostfixEntry.coverage" NAME="PostfixEntry Coverage Results" MODIFIED="1676645778491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/PostfixEntry" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Heap2.coverage" NAME="Heap2 Coverage Results" MODIFIED="1678277147387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Heap" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$PrettyLine.coverage" NAME="PrettyLine Coverage Results" MODIFIED="1676542138760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/PrettyLine" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$aa.coverage" NAME="aa Coverage Results" MODIFIED="1678600918549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$TelNumbers.coverage" NAME="TelNumbers Coverage Results" MODIFIED="1676265549160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.0/1.1" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$The_most_expensive_way.coverage" NAME="The most expensive way Coverage Results" MODIFIED="1678532927170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/The most expensive way" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Dfs.coverage" NAME="Dfs Coverage Results" MODIFIED="1678628740807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Dfs" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Triple_1.coverage" NAME="Triple 1 Coverage Results" MODIFIED="1678435580204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Triple 1" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Chess_Knight.coverage" NAME="Chess Knight Coverage Results" MODIFIED="1678538604178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Chess Knight" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Ambulance.coverage" NAME="Ambulance Coverage Results" MODIFIED="1676279402162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.0/1.1" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Stack.coverage" NAME="Stack Coverage Results" MODIFIED="1676642190309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Stack" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Grasshopper.coverage" NAME="Grasshopper Coverage Results" MODIFIED="1678438227273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Grasshopper" />
+    <SUITE FILE_PATH="coverage/TrainingAlgorithms$Heap.coverage" NAME="Heap Coverage Results" MODIFIED="1678271068664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.0/Heap" />
+  </component>
+</project>
