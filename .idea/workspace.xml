@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1979d24-0daa-4e1c-af77-4b7c6d2c0342" name="Changes" comment="Add solve for 3 tasks" />
+    <list default="true" id="c1979d24-0daa-4e1c-af77-4b7c6d2c0342" name="Changes" comment="Add algorithm Search blocks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,11 +30,15 @@
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kovtonur/PycharmProjects/TrainingAlgorithms",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/3.0/Nails" />
       <recent name="$PROJECT_DIR$/3.0/Histogramm" />
@@ -89,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678709196198</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add algorithm Search blocks">
+      <created>1678709652878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678709652878</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add solve for 3 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add solve for 3 tasks" />
+    <MESSAGE value="Add algorithm Search blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add algorithm Search blocks" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TrainingAlgorithms$main.coverage" NAME="main Coverage Results" MODIFIED="1678707561619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
